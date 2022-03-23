@@ -1,2 +1,2 @@
-# Examen
-Examen de segundo parcial
+# Segundo Parcial
+Examen de segundo parcial Paula Echeverría
