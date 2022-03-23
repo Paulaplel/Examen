@@ -1,0 +1,14 @@
+/* Hoja de estilos para ejercicios */
+body {
+    background-image: url(../img/fondo.jpg);
+}
+
+.principal {
+    background-color:lightskyblue;
+}
+#ultimas a {
+    font-size: 14px;
+    color:plum;
+    font-weight: normal;
+    margin-bottom: 10px;;
+}
